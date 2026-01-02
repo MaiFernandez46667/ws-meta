@@ -13,3 +13,4 @@ echo "ws-meta"
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
 # clarify the control flow
+# drop an unused branch
